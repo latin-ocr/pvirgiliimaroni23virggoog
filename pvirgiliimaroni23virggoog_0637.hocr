@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvirgiliimaroni23virggoog_0637.png"; bbox 0 0 2610 4549; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 733 166 1897 321">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 658 166 1897 321">
+     <span class='ocr_line' id='line_1_1' title="bbox 733 166 1897 321; baseline 0.022 -38.366"><span class='ocrx_word' id='word_1_1' title='bbox 733 272 741 284; x_wconf 83' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 769 166 1327 321; x_wconf 62' lang='lat' dir='ltr'><strong>AENEmQ&#39;s</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1384 215 1733 290; x_wconf 59' lang='lat' dir='ltr'>2112·va</span> <span class='ocrx_word' id='word_1_4' title='bbox 1770 228 1810 251; x_wconf 48' lang='grc' dir='ltr'>η</span> <span class='ocrx_word' id='word_1_5' title='bbox 1893 302 1897 308; x_wconf 82' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2157 190 2318 314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2157 190 2318 314">
+     <span class='ocr_line' id='line_1_2' title="bbox 2157 190 2318 314; baseline 0.031 -4"><span class='ocrx_word' id='word_1_6' title='bbox 2157 190 2318 314; x_wconf 61' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

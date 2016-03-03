@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvirgiliimaroni23virggoog_0567.png"; bbox 0 0 2610 4549; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 661 181 2374 338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 643 173 2374 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 661 181 2374 338; baseline 0.019 -52.657"><span class='ocrx_word' id='word_1_1' title='bbox 661 280 666 285; x_wconf 83' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 711 219 1381 338; x_wconf 47' lang='lat' dir='ltr'>scammum</span> <span class='ocrx_word' id='word_1_3' title='bbox 1438 218 1619 292; x_wconf 68' lang='grc' dir='ltr'>ΜΒ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1662 221 1731 293; x_wconf 83' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_5' title='bbox 1798 235 1840 284; x_wconf 60' lang='grc' dir='ltr'>’τ</span> <span class='ocrx_word' id='word_1_6' title='bbox 2100 181 2104 201; x_wconf 32' lang='lat' dir='ltr'><strong>f</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2195 217 2374 317; x_wconf 76' lang='lat'>489?</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

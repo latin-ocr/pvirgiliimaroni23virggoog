@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pvirgiliimaroni23virggoog_0322.png"; bbox 0 0 2610 4549; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 167 162 1676 273">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 167 162 1676 273">
+     <span class='ocr_line' id='line_1_1' title="bbox 167 162 1676 273; baseline -0.002 -11"><span class='ocrx_word' id='word_1_1' title='bbox 167 266 173 272; x_wconf 22' lang='lat'><em>(</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 257 199 436 273; x_wconf 38' lang='lat'><strong>248*</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 569 162 573 163; x_wconf 7' lang='grc' dir='ltr'><em>γ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 873 187 944 262; x_wconf 81' lang='lat' dir='ltr'><strong>-E</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 989 186 1261 260; x_wconf 57' lang='lat' dir='ltr'><strong>XCr‘V</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1296 166 1363 261; x_wconf 22' lang='lat' dir='ltr'><strong>‘R</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1406 188 1465 273; x_wconf 72' lang='lat' dir='ltr'><strong>S¹</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1497 191 1562 261; x_wconf 87' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_9' title='bbox 1607 190 1676 273; x_wconf 57' lang='lat' dir='ltr'><strong>S:</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
